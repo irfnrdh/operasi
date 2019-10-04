@@ -1,2 +1,4 @@
 # Operasi
-Hapus file , rubah nama thumb hasil export image telegram group
+- Hapus file Thumb Hasil export image
+- Rubah Nama
+- Buat folder
