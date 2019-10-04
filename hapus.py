@@ -14,7 +14,7 @@ def write_json(onlyfiles, filename='files.json'):
         json.dump(onlyfiles, f, indent=2,ensure_ascii=False)
 
 onlyfiles.remove('hapus.py');        
-write_json(onlyfiles)       
+#write_json(onlyfiles)       
 onlyfiles.remove('files.json');
 
 list = onlyfiles
@@ -30,4 +30,4 @@ while int(calc) <= len(list):
     calc = int(calc) + 1
     
 print("Jumlah file Setelah dihapus :" , format(len(list)))
-write_json(onlyfiles)  
+#write_json(onlyfiles)  
