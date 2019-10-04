@@ -15,7 +15,7 @@ def write_json(onlyfiles, filename='files.json'):
 
 onlyfiles.remove('hapus.py');        
 #write_json(onlyfiles)       
-onlyfiles.remove('files.json');
+#onlyfiles.remove('files.json');
 
 list = onlyfiles
 
