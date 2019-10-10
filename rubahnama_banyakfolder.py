@@ -1,3 +1,5 @@
+# by @irfnrdh 10/10/19
+
 import os
 from random import *
 
