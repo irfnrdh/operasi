@@ -1,5 +1,9 @@
 # by @irfnrdh 04/10/19
 
+'''
+Studi kasus ini menghapus semua file thumbnail hasil download photo dari telegram
+'''
+
 import os
 from os import listdir
 from os.path import isfile, join
